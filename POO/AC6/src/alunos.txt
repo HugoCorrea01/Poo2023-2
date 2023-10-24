@@ -1,0 +1,5 @@
+202301134391,Hugo,Medicina
+202301134358,Lucas,Engenharia da computacao
+202301134356,Matheus,Ciencia da Computacao
+202301134324,Joao,ADS
+202301134357,Pedro,Direito
